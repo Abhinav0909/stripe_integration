@@ -1,7 +1,10 @@
-# thrivers_backend_assignment
+### thrivers_backend_assignment
 
-####Routes
+### Routes
 
-#Submitting the form data :- /
+## Submitting the form data :- /
 
-#Payment gateway route - /payment
+## Payment gateway route - /payment
+
+### You can start this project with this following command
+npm start
