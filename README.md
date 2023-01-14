@@ -1,5 +1,3 @@
-### thrivers_backend_assignment
-
 ### Routes
 
 ## Submitting the form data :- /
